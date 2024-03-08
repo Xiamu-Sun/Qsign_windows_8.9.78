@@ -10,7 +10,9 @@
 
 #### 安装教程
 
-在 [releases](https://github.com/Xiamu-Sun/amireux/releases/tag/0.3.0) 中下载
+<img src="https://github.com/Xiamu-Sun/amireux/blob/main/Program%20screenshot/qs4.png?raw=true" style="zoom:70%;" />
+
+请在 [releases](https://github.com/Xiamu-Sun/amireux/releases/tag/0.3.0) 中下载
 
 #### 使用说明
 
