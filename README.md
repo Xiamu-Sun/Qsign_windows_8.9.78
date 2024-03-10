@@ -10,7 +10,7 @@
 
 #### 安装教程
 
-<img src="https://github.com/Xiamu-Sun/amireux/blob/main/Program%20screenshot/qs4.png?raw=true" style="zoom:70%;" />
+<img src="https://github.com/Xiamu-Sun/amireux/blob/main/Program%20screenshot/qs0.4.2.png?raw=true" style="zoom:70%;" />
 
 请在 [releases](https://github.com/Xiamu-Sun/amireux/releases/tag/0.3.0) 中下载
 
@@ -22,7 +22,11 @@
 
 3.  程序采用图形化一键部署，只要懂中文应该都会用
 
-4.  程序由易语言编写，写出文件属于敏感行为，会被杀毒软件误报，如果不放心，请自行下载源码编译
+4.  如果有bug欢迎lssues
+
+5.  自动监控签名，崩溃自动重启，设置内存阈值，达到自动重启。
+
+6.  程序由易语言编写，写出文件属于敏感行为，会被杀毒软件误报，如果不放心，请自行下载源码编译
 
 
 #### 声明
