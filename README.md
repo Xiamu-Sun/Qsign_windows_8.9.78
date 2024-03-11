@@ -12,7 +12,7 @@
 
 <img src="https://github.com/Xiamu-Sun/amireux/blob/main/Program%20screenshot/qs0.4.2.png?raw=true" style="zoom:70%;" />
 
-请在 [releases](https://github.com/Xiamu-Sun/amireux/releases/tag/0.3.0) 中下载
+请在 [releases](https://github.com/Xiamu-Sun/amireux/releases/tag/0.3.0) 中下载 0.4.2版本目前有一个bug，在长时间运行下会出现程序崩溃，暂时已经定位到了问题，将在下一个版本修复，可以先用着0.4.1,，并且将自动更新检测关闭（重复写入变量导致的目测）
 
 #### 使用说明
 
